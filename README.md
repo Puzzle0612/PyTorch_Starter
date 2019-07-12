@@ -8,6 +8,6 @@ CUDA9.0+cuDNN9.0
 PyTorch 1.1.0
 
 ## **Notes**  
-Two pretrained models with 2-epoch-training and 10-epoch-training (only 1% accuracy improvement ...)
-Anyway, use test.py to load one of them to see the result directly or training it with charpter4.py  
+Two pretrained models with 2-epoch-training and 10-epoch-training (only 1% accuracy improvement ...).   
+Anyway, use test.py to load one of them to see the result directly or train new model with chapter4.py.   
 Inspired by http://pytorchchina.com/2018/06/25/what-is-pytorch/
